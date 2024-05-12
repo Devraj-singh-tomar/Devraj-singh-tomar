@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devraj Singh Tomar</h1>
 <h3 align="center">A passionate Full-Stack Developer </h3>
 
-- 🔭 I’m currently working on **Real-estate project**
+- 🔭 I’m currently working on **Full-Stack projects**
 
 - 🌱 I’m currently learning **NextJS**
 
