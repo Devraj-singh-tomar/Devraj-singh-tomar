@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Full-Stack projects**
 
-- 🌱 I’m currently learning **NextJS**
-
 - 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **devrajsingh.t11@gmail.com**
