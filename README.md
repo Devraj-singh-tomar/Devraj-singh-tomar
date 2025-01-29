@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer </h3>
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Nextjs and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>AWS Services and React Native<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Devops, Node.js, AWS, and any general software development questions.<br>
+🔭 **I’m currently working on:**  <br>Nextjs and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Artificial intelligence & Machine Learning<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Devops, Node.js, AWS, and any general software development questions.<br>
 
 
 ## 🌐 Socials:
