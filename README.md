@@ -13,19 +13,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=Devraj-singh-tomar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-  
-  <br/>
-
   [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Devraj-singh-tomar&theme=radical)](https://git.io/streak-stats)
-
-  <br/>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=Devraj-singh-tomar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-singh-tomar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
