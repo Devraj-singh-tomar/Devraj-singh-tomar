@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devraj Singh Tomar</h1>
-<h3 align="center">A passionate Full-Stack Developer </h3>
+
+<h2 align="center">Idea &rarr; Code &rarr; Reality</h3>
 
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>Nextjs and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Diff. deployment techniques<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Devops, Node.js, Docker, AWS, and any general software development questions.<br>
@@ -17,5 +18,5 @@
   
   ![](https://github-readme-stats.vercel.app/api?username=Devraj-singh-tomar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-singh-tomar&layout=compact&langs_count=10&theme=radical)](https://github.com/Devraj-singh-tomar/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-singh-tomar&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/Devraj-singh-tomar/github-readme-stats)
 </div>
